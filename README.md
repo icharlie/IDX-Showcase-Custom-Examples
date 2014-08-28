@@ -1,10 +1,8 @@
-IDX-Carousel-Custom-Examples
+IDX-Showcase-Custom-Examples
 ============================
 
-### Custom Arrow
-> Please replace the {{widgetID}} by your widget ID
-
 #### Media Queries
+> Please replace the {{widgetID}} by your widget ID
 
 ![](https://raw.githubusercontent.com/icharlie/IDX-Showcase-Custom-Examples/master/images/showcase.gif)
 
