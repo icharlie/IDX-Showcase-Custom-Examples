@@ -6,7 +6,7 @@ IDX-Carousel-Custom-Examples
 
 #### Media Queries
 
-![](https://raw.githubusercontent.com/icharlie/IDX-Showcase-Custom-Examples/master/images/showcase.gif
+![](https://raw.githubusercontent.com/icharlie/IDX-Showcase-Custom-Examples/master/images/showcase.gif)
 
 
 ```css
